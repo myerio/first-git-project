@@ -1,0 +1,2 @@
+Transaction 1: $10
+Transaction 2: $25
