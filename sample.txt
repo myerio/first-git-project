@@ -1,0 +1,4 @@
+Transaction 1: $50
+Transaction 2: $100
+Transaction 3: $200
+Transaction 4: $100
